@@ -12,8 +12,8 @@ body {
     width: 450px;
     height: fit-content;
     background-color: white;
-    border: 1px solid red;
     border-radius: 10px;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.5);
     justify-content: center;
     margin: 10px auto;
     padding-left: 20px;
